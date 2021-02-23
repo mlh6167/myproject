@@ -7,4 +7,5 @@ def my():
 
 pass
 pass
-pass
+
+float
